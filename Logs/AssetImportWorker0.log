@@ -1,0 +1,1351 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1706; Version 2009; 64bit' Language: 'ru' Physical Memory: 32718 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Combine/Combine_vr
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52848
+Successfully changed project path to: E:/Combine/Combine_vr
+E:/Combine/Combine_vr
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Combine/Combine_vr/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   30.0.15.1259
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56792
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001999 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 40.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001113 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2421 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.8 MB.
+System memory in use after: 110.1 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2827.
+Total: 3.390900 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.065500 ms MarkObjects: 1.768600 ms  DeleteObjects: 1.263200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffd2c44ffeb50c574abb5d0c4453328') in 0.034668 seconds
+  Import took 0.038808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffd2c44ffeb50c574abb5d0c4453328') in 0.002878 seconds
+  Import took 0.005905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1222.612101 seconds.
+  path: Assets/TutorialInfo
+  artifactKey: Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo using Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5a30219286eb2a872f2f84d66d9616') in 0.005212 seconds
+  Import took 0.008851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001605 seconds.
+  path: Assets/TutorialInfo
+  artifactKey: Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo using Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5a30219286eb2a872f2f84d66d9616') in 0.002805 seconds
+  Import took 0.006266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.186338 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.004785 seconds
+  Import took 0.008612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002256 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.002665 seconds
+  Import took 0.006059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.935371 seconds.
+  path: Assets/Model
+  artifactKey: Guid(3580631bc5baf2a439b43dd1a758be84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model using Guid(3580631bc5baf2a439b43dd1a758be84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0777c49bb444cc15143969f748156785') in 0.006006 seconds
+  Import took 0.009517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 386.977800 seconds.
+  path: Assets/Model/Combine_osnova.fbx
+  artifactKey: Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova.fbx using Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be267b8ff3b94706057ecaed34d3f23d') in 1.635769 seconds
+  Import took 1.642011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.298279 seconds.
+  path: Assets/Model/Combine_osnova.fbx
+  artifactKey: Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova.fbx using Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b7e5b8ef3f5cfe6a0d24e037c29c4d') in 0.808444 seconds
+  Import took 0.814132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.909782 seconds.
+  path: Assets/Materials/Base_2.mat
+  artifactKey: Guid(2fc2f96d56e8bf443b2ba9c8e96159c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Base_2.mat using Guid(2fc2f96d56e8bf443b2ba9c8e96159c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce089bedf7bbafadceeb3c6113a1739') in 0.013997 seconds
+  Import took 0.017768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Materials/Base_3.mat
+  artifactKey: Guid(22b129448309e694b8e61d643eb76803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Base_3.mat using Guid(22b129448309e694b8e61d643eb76803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2903cca9c98fe09eca4517b64fc54be6') in 0.013836 seconds
+  Import took 0.017015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Materials/Cabine_insidea.mat
+  artifactKey: Guid(1509d3c3ba168924a8784164462bd9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cabine_insidea.mat using Guid(1509d3c3ba168924a8784164462bd9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee45bd5d4497740c65371fc510d97ef') in 0.009719 seconds
+  Import took 0.021264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Materials/Main.mat
+  artifactKey: Guid(43f3276b71f275645b475c0c83635595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Main.mat using Guid(43f3276b71f275645b475c0c83635595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532940e5e1ad714fed6e12b30c2ba607') in 0.009278 seconds
+  Import took 0.012389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Materials/Whall.mat
+  artifactKey: Guid(c30b3f347b161c143ba1318fba479e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Whall.mat using Guid(c30b3f347b161c143ba1318fba479e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698cfb34eb9b2c572352dd1387edc95d') in 0.009254 seconds
+  Import took 0.012321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d54ab3375f41efad00566dcae11def2') in 0.022804 seconds
+  Import took 0.026859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Materials/Glass.mat
+  artifactKey: Guid(2cdf937380d1ab840856b417a8441c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Glass.mat using Guid(2cdf937380d1ab840856b417a8441c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdb7b93f722e78514eebfd0ad75a19c') in 0.009740 seconds
+  Import took 0.015520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Materials/other_matal.001.mat
+  artifactKey: Guid(eda880cc0bed93e44815147e5a2c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/other_matal.001.mat using Guid(eda880cc0bed93e44815147e5a2c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e29a2867067daa6793c53047d7ffd61') in 0.009616 seconds
+  Import took 0.012762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Materials/Motovila.mat
+  artifactKey: Guid(1bac971d5a6bc5e41970bec5e7d80709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Motovila.mat using Guid(1bac971d5a6bc5e41970bec5e7d80709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce131111ca6c72dfa80644398d91b01') in 0.009944 seconds
+  Import took 0.013503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Materials/cabine.001.mat
+  artifactKey: Guid(d94234edb49949c4c8b95d8003cdfeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cabine.001.mat using Guid(d94234edb49949c4c8b95d8003cdfeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3e24e162f398b6d02ed4162105586f') in 0.009791 seconds
+  Import took 0.013050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Materials/Bunker.mat
+  artifactKey: Guid(999ae616739019f47ab8f7b069813938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bunker.mat using Guid(999ae616739019f47ab8f7b069813938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f58d365cafee88d8f7cd537880ad79c') in 0.008866 seconds
+  Import took 0.011994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Materials/PC.mat
+  artifactKey: Guid(523b5bed7b0f7a34090366dfcf2e28c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PC.mat using Guid(523b5bed7b0f7a34090366dfcf2e28c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb79e337019674201adb48cc10cd354f') in 0.012741 seconds
+  Import took 0.016479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.331272 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(0898b8e14d5ed0b4f8bebbd767c16954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(0898b8e14d5ed0b4f8bebbd767c16954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5640a9bc9e6c66b6de1934edacd5a800') in 0.004738 seconds
+  Import took 0.008477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(0898b8e14d5ed0b4f8bebbd767c16954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(0898b8e14d5ed0b4f8bebbd767c16954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5640a9bc9e6c66b6de1934edacd5a800') in 0.001854 seconds
+  Import took 0.005234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.325114 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_AlbedoTransparency.png
+  artifactKey: Guid(ab966f8343c55064ebf7cc50ebce15c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_AlbedoTransparency.png using Guid(ab966f8343c55064ebf7cc50ebce15c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc8aa746c762e3a89438f78377a5f55') in 0.038231 seconds
+  Import took 0.042100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_MaskMap.png
+  artifactKey: Guid(4e1da55cc5af0e3489ab47d7cbb8c955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_MaskMap.png using Guid(4e1da55cc5af0e3489ab47d7cbb8c955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17baab483bbf7bc18ae1c5b5fd1f8a52') in 0.023139 seconds
+  Import took 0.026617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Texture/Combine_osnova_PC_BaseMap.png
+  artifactKey: Guid(10e1f306b2616ca488b1f3f2309d1b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_PC_BaseMap.png using Guid(10e1f306b2616ca488b1f3f2309d1b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ae6d179ab648e2aaafe273be9509b3') in 0.012833 seconds
+  Import took 0.015985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Specular.png
+  artifactKey: Guid(67e236ef21ef4e44b9b2fe1a79d080a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Specular.png using Guid(67e236ef21ef4e44b9b2fe1a79d080a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5937e7e0d7ca5e4733ac6c2203f1530b') in 0.014363 seconds
+  Import took 0.018109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_BaseMap.png
+  artifactKey: Guid(ba144ff27cb54404bb79645122e4a74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_BaseMap.png using Guid(ba144ff27cb54404bb79645122e4a74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6caede9e1d21024563cf31b2ddf7e4') in 0.016314 seconds
+  Import took 0.019530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_AlbedoTransparency.png
+  artifactKey: Guid(0fd86c920ce805f4289b4e9e54e0d881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_AlbedoTransparency.png using Guid(0fd86c920ce805f4289b4e9e54e0d881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3062746a2222b09cacc062b68e7585c') in 0.013308 seconds
+  Import took 0.017328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_Emissive.png
+  artifactKey: Guid(f252d22105f9f184bb07a3e02af618d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_Emissive.png using Guid(f252d22105f9f184bb07a3e02af618d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2398b73db3936d8595e51932ca9423d8') in 0.028979 seconds
+  Import took 0.032284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_Normal.png
+  artifactKey: Guid(9982d894c9432744eac8311922091177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_Normal.png using Guid(9982d894c9432744eac8311922091177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25625efd4a64be34b31f3de7b9d08be7') in 0.029513 seconds
+  Import took 0.033137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_Normal.png
+  artifactKey: Guid(a061dd1926673d840b06962a1abb51ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_Normal.png using Guid(a061dd1926673d840b06962a1abb51ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8935a1ce3175888a88891166783dad40') in 0.031551 seconds
+  Import took 0.035272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_Specular.png
+  artifactKey: Guid(24b4581b9535f9f4899c79f31796e547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_Specular.png using Guid(24b4581b9535f9f4899c79f31796e547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f13eb544e0c312cee9836e7e7d788f7') in 0.011567 seconds
+  Import took 0.014765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Specular.png
+  artifactKey: Guid(de17bcc9f818cb04f9e689bad221f93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Specular.png using Guid(de17bcc9f818cb04f9e689bad221f93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2198781458463a3339a15a10f0f223') in 0.010329 seconds
+  Import took 0.013366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_Emission.png
+  artifactKey: Guid(be2ab973c43d2d342b4ca1e98124bfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_Emission.png using Guid(be2ab973c43d2d342b4ca1e98124bfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4f6989f49da3507c1affb9d3777b5d') in 0.025311 seconds
+  Import took 0.028523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_MaskMap.png
+  artifactKey: Guid(d4f411cb59bedf44b94a863189d5a549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_MaskMap.png using Guid(d4f411cb59bedf44b94a863189d5a549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9869d75da04674a31e8352dc18a2520') in 0.032396 seconds
+  Import took 0.037321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Texture/Combine_osnova_PC_Specular.png
+  artifactKey: Guid(7784f6f8e6e3db4488c7f07f03074b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_PC_Specular.png using Guid(7784f6f8e6e3db4488c7f07f03074b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2842955b55f0c4174a099a2400fb93') in 0.011720 seconds
+  Import took 0.015028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_MaskMap.png
+  artifactKey: Guid(c4dfc02dd75f69d4199acba7121e6462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_MaskMap.png using Guid(c4dfc02dd75f69d4199acba7121e6462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2abe979fa83b7817decc194ecaca89') in 0.017899 seconds
+  Import took 0.021218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_MaskMap.png
+  artifactKey: Guid(165a5e2742e211e4ba4348210393a990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_MaskMap.png using Guid(165a5e2742e211e4ba4348210393a990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299b5370ac1d947b52a734ae66cdfb30') in 0.023906 seconds
+  Import took 0.028328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_BaseMap.png
+  artifactKey: Guid(570920d8e10e8ee4ab3653dde2744743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_BaseMap.png using Guid(570920d8e10e8ee4ab3653dde2744743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4934e350cf019debcd5acee893a37f') in 0.011121 seconds
+  Import took 0.014894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_BaseMap.png
+  artifactKey: Guid(44e35efb5c81d4b4f8351fb3ce70ed8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_BaseMap.png using Guid(44e35efb5c81d4b4f8351fb3ce70ed8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287ca29517ee7872166514f2bf515a2e') in 0.007029 seconds
+  Import took 0.010093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_Specular.png
+  artifactKey: Guid(fde28c161a953be4a8934a4ce5957c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_Specular.png using Guid(fde28c161a953be4a8934a4ce5957c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c17631f43cae170616e2187d0c30471') in 0.012198 seconds
+  Import took 0.015952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_MetallicSmoothness.png
+  artifactKey: Guid(2081015e53079fc4b9f8bb15aca12eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_MetallicSmoothness.png using Guid(2081015e53079fc4b9f8bb15aca12eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd83863807e7cc87b40abc276592f0b') in 0.010497 seconds
+  Import took 0.013754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_AlbedoTransparency.png
+  artifactKey: Guid(5603af3f753bbe74a8a7823d08892d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_AlbedoTransparency.png using Guid(5603af3f753bbe74a8a7823d08892d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a093d789d116a4473ecd09ed4b31b1d5') in 0.009903 seconds
+  Import took 0.013118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_Emissive.png
+  artifactKey: Guid(18a881f64ec8bd049a66cbcaf31a9341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_Emissive.png using Guid(18a881f64ec8bd049a66cbcaf31a9341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd7886dfbfbdf524c9991739ba344cb') in 0.012814 seconds
+  Import took 0.016693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_Normal.png
+  artifactKey: Guid(20057566c23afe448b4a6df52b820afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_Normal.png using Guid(20057566c23afe448b4a6df52b820afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abd905be1304893a7065ff91217e539') in 0.011647 seconds
+  Import took 0.014720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Texture/Combine_osnova_PC_Normal.png
+  artifactKey: Guid(4777bef100be3be45ad9ef14822237de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_PC_Normal.png using Guid(4777bef100be3be45ad9ef14822237de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e86df410dcd2f8351324b96f3feda1b') in 0.007498 seconds
+  Import took 0.011515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_MetallicSmoothness.png
+  artifactKey: Guid(9e5b7aab831c05d468d718ef1275bd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_MetallicSmoothness.png using Guid(9e5b7aab831c05d468d718ef1275bd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a0e9d79e80c0449c9eb443ea2d54c1') in 0.007756 seconds
+  Import took 0.011116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Normal.png
+  artifactKey: Guid(241b49c70c2b7af41a1a8a0dc6b0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Normal.png using Guid(241b49c70c2b7af41a1a8a0dc6b0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817b7fdcbb7bc9e185e526fd25f3fd87') in 0.008479 seconds
+  Import took 0.011702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_MaskMap.png
+  artifactKey: Guid(c78a1e5e319ce7d4e82ea5ed0c281fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_MaskMap.png using Guid(c78a1e5e319ce7d4e82ea5ed0c281fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40254372f636d23254b32ab18db93163') in 0.009423 seconds
+  Import took 0.012489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_Specular.png
+  artifactKey: Guid(885ea6194f92e6d478da93b0267a6632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_Specular.png using Guid(885ea6194f92e6d478da93b0267a6632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e786ccd89f60f3cfd50456d540b2ae8') in 0.011806 seconds
+  Import took 0.015595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_MetallicSmoothness.png
+  artifactKey: Guid(00bd0b49750036141b242d26b41e66ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_MetallicSmoothness.png using Guid(00bd0b49750036141b242d26b41e66ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a292f59ef337b396d176fb328ce86883') in 0.009682 seconds
+  Import took 0.013074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Emissive.png
+  artifactKey: Guid(25e1da286076b9046b37a828202234b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Emissive.png using Guid(25e1da286076b9046b37a828202234b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36dcb753c593b833b55146d8ff3f8154') in 0.008444 seconds
+  Import took 0.011639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Texture/Combine_osnova_Main_BaseMap.png
+  artifactKey: Guid(02f59856a9755034d905603861da826e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_BaseMap.png using Guid(02f59856a9755034d905603861da826e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ef565970ed1292051bcd0b396e9f41') in 0.008430 seconds
+  Import took 0.011819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_AlbedoTransparency.png
+  artifactKey: Guid(5a3df80ffd7e79846923bd96af86659a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_AlbedoTransparency.png using Guid(5a3df80ffd7e79846923bd96af86659a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00026c8439979e27f68403778a3f3fc0') in 0.008948 seconds
+  Import took 0.012159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_Normal.png
+  artifactKey: Guid(0d9a8770fc9ad7a45be8c072fbf7a33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_Normal.png using Guid(0d9a8770fc9ad7a45be8c072fbf7a33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf3a5f643c2882014485b52bc3bddda') in 0.011512 seconds
+  Import took 0.014822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Texture/Combine_osnova_PC_MaskMap.png
+  artifactKey: Guid(134321c22c201d349ba161b20597d47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_PC_MaskMap.png using Guid(134321c22c201d349ba161b20597d47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f2a34ff8f5c8bb3ea80826f850f056e') in 0.007704 seconds
+  Import took 0.011852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_AlbedoTransparency.png
+  artifactKey: Guid(96d75fc43bf6cf048a6514c534d61376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_AlbedoTransparency.png using Guid(96d75fc43bf6cf048a6514c534d61376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7041ce64e24fe18e9139a9c22fead6') in 0.013040 seconds
+  Import took 0.016100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_AlbedoTransparency.png
+  artifactKey: Guid(c870d5a483c70d94985b32ea695d98a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_AlbedoTransparency.png using Guid(c870d5a483c70d94985b32ea695d98a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b6ee4421838f007837f7a0e339ab9b') in 0.008275 seconds
+  Import took 0.011507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_Normal.png
+  artifactKey: Guid(27d9a47d8cf09774c82a56a21dd6df2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_Normal.png using Guid(27d9a47d8cf09774c82a56a21dd6df2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5869121898506955570b18afc164b2') in 0.011742 seconds
+  Import took 0.014974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Texture/Combine_osnova_PC_AlbedoTransparency.png
+  artifactKey: Guid(f44e39ddb6dfee84db6f1fe1d8607de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_PC_AlbedoTransparency.png using Guid(f44e39ddb6dfee84db6f1fe1d8607de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1356e8feb7e632c3c5a1fdd7e7d1b73c') in 0.007591 seconds
+  Import took 0.011494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_Specular.png
+  artifactKey: Guid(014e560ab89b8ba4cb1cdab4a6d84d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_Specular.png using Guid(014e560ab89b8ba4cb1cdab4a6d84d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a811ad9916c9ad62e6b9d6b94e7193') in 0.008044 seconds
+  Import took 0.011407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Emission.png
+  artifactKey: Guid(9a9d401cd8fafbb43afbc49a9e20d9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Emission.png using Guid(9a9d401cd8fafbb43afbc49a9e20d9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2461d6a88ec1c75920e34977a4e24b12') in 0.008263 seconds
+  Import took 0.019705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_BaseMap.png
+  artifactKey: Guid(9ff4c3120aef019439555d1615ab14fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_BaseMap.png using Guid(9ff4c3120aef019439555d1615ab14fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb284487b6c12904baff7db36ec17de4') in 0.012464 seconds
+  Import took 0.015538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_BaseMap.png
+  artifactKey: Guid(35be31791246ace4f8382e704b364a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_BaseMap.png using Guid(35be31791246ace4f8382e704b364a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c9e7ea5887ea8835bd69f53b5f6023') in 0.008688 seconds
+  Import took 0.011710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_Normal.png
+  artifactKey: Guid(b1bbad258bde6a14b9ea0c63e5fa8e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_Normal.png using Guid(b1bbad258bde6a14b9ea0c63e5fa8e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4bcc485eb92157f7317d912f6d01e7') in 0.011358 seconds
+  Import took 0.014531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_BaseMap.png
+  artifactKey: Guid(26c1493f26e53c5449865e45c7e9829f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_BaseMap.png using Guid(26c1493f26e53c5449865e45c7e9829f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822c8c40d177a12183a6a8987b70617f') in 0.011851 seconds
+  Import took 0.015539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Texture/Combine_osnova_Main_MaskMap.png
+  artifactKey: Guid(375294186d2117e4786785198a27395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_MaskMap.png using Guid(375294186d2117e4786785198a27395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b2c331719140df9811815a001d7931') in 0.011118 seconds
+  Import took 0.014788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_MetallicSmoothness.png
+  artifactKey: Guid(a3ab0fc278a282347847fd5a3343ac76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_MetallicSmoothness.png using Guid(a3ab0fc278a282347847fd5a3343ac76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad53fbcc54977828e8264ffc136af6e2') in 0.021426 seconds
+  Import took 0.025738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_BaseMap.png
+  artifactKey: Guid(7bc9fc1789cce724da9de792017213eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_BaseMap.png using Guid(7bc9fc1789cce724da9de792017213eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88dd7c65b1a3a35b94300bb12cbab656') in 0.012019 seconds
+  Import took 0.015478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_AlbedoTransparency.png
+  artifactKey: Guid(621df3448825b3f43903efc35b62c69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_AlbedoTransparency.png using Guid(621df3448825b3f43903efc35b62c69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28a75fa23c392ff1dff6b6c11ae331b') in 0.008564 seconds
+  Import took 0.012206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_Specular.png
+  artifactKey: Guid(609fb82fe29fc83449730015db902081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_Specular.png using Guid(609fb82fe29fc83449730015db902081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fcbccc0abe6479ce906d2e9aafce8a') in 0.008628 seconds
+  Import took 0.012341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_Normal.png
+  artifactKey: Guid(30f9d0df383bc824ea21ebab074c55ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_Normal.png using Guid(30f9d0df383bc824ea21ebab074c55ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c44d551c0c46a73eb8b49ed0b2f576') in 0.008049 seconds
+  Import took 0.011678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_MaskMap.png
+  artifactKey: Guid(ede5ea4de52848447b6632dcd7f3622a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_MaskMap.png using Guid(ede5ea4de52848447b6632dcd7f3622a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088670ea591114730cf2bb8fd7f0a2a9') in 0.024696 seconds
+  Import took 0.029225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_Normal.png
+  artifactKey: Guid(44f3b07a161536a46ba4a322c963459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_Normal.png using Guid(44f3b07a161536a46ba4a322c963459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48001eef8111392337c6e26be87c60a8') in 0.008990 seconds
+  Import took 0.012713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_Emission.png
+  artifactKey: Guid(e7e5dc35ac7094d42897afe67c62542e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_Emission.png using Guid(e7e5dc35ac7094d42897afe67c62542e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0850c690b5909aa435dc0267987232') in 0.011690 seconds
+  Import took 0.015412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_Specular.png
+  artifactKey: Guid(54e748ec8d6b9af40aeb619bcbf3eb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_Specular.png using Guid(54e748ec8d6b9af40aeb619bcbf3eb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcf629bd1edcccc6491a82a04b5ed07') in 0.014673 seconds
+  Import took 0.018301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_Specular.png
+  artifactKey: Guid(0043265ac53c87a428ff39795912d86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_Specular.png using Guid(0043265ac53c87a428ff39795912d86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c448edb2a2896c6c764cbde339e6f780') in 0.012484 seconds
+  Import took 0.016211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_MetallicSmoothness.png
+  artifactKey: Guid(45114d0278d9b3b4ba7738b8539b114f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_MetallicSmoothness.png using Guid(45114d0278d9b3b4ba7738b8539b114f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c7a826fd9e4acb588a86734526d1cf') in 0.029641 seconds
+  Import took 0.034319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_MetallicSmoothness.png
+  artifactKey: Guid(ffc86b71d7582144da6ed9f0fb684db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_MetallicSmoothness.png using Guid(ffc86b71d7582144da6ed9f0fb684db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e4d16af6c37346a49afb9b93ba507dd') in 0.010088 seconds
+  Import took 0.029542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_MaskMap.png
+  artifactKey: Guid(3e68ba07dd6e63745a755f98fd28d431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_MaskMap.png using Guid(3e68ba07dd6e63745a755f98fd28d431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c3d6be9bbe0d5860894fcf620f31ce') in 0.035364 seconds
+  Import took 0.040226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_Specular.png
+  artifactKey: Guid(c9213b279c6154445af67e9c9cfdbf26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_Specular.png using Guid(c9213b279c6154445af67e9c9cfdbf26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e930160675350fa6b26c5d75adfd1e53') in 0.008573 seconds
+  Import took 0.018840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_AlbedoTransparency.png
+  artifactKey: Guid(be04ea957b897264b9b1db8493b60689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_AlbedoTransparency.png using Guid(be04ea957b897264b9b1db8493b60689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3e0ee504c45490c9dd7bfb55f0c3e9') in 0.009281 seconds
+  Import took 0.013173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_MetallicSmoothness.png
+  artifactKey: Guid(7dea8e09ef63d6342be6e4b423fc2720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_MetallicSmoothness.png using Guid(7dea8e09ef63d6342be6e4b423fc2720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555b71f033b1901d20990ef1bb7bd847') in 0.010151 seconds
+  Import took 0.013394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Emission.png
+  artifactKey: Guid(7962ca9bff2b1cb468b86d88e2de12ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Emission.png using Guid(7962ca9bff2b1cb468b86d88e2de12ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7c4a4d10b435242f3a19374fd0324e') in 0.009116 seconds
+  Import took 0.012314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_AlbedoTransparency.png
+  artifactKey: Guid(47a986d4323bf61478bebeaf9e9028f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_AlbedoTransparency.png using Guid(47a986d4323bf61478bebeaf9e9028f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b88c7a85db970fdaa20d15dac0d0fa1') in 0.013481 seconds
+  Import took 0.016681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_MetallicSmoothness.png
+  artifactKey: Guid(b0c9cd7027a8b884f93682ab5f83a139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_MetallicSmoothness.png using Guid(b0c9cd7027a8b884f93682ab5f83a139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc8799c4c538130387920f0a79617d0') in 0.020032 seconds
+  Import took 0.024512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Emissive.png
+  artifactKey: Guid(83ca2c1722014984682095a1b4f7069f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Emissive.png using Guid(83ca2c1722014984682095a1b4f7069f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9eb781f3ce4c0591db685385fba6664') in 0.008809 seconds
+  Import took 0.012037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_MetallicSmoothness.png
+  artifactKey: Guid(b0c9cd7027a8b884f93682ab5f83a139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_MetallicSmoothness.png using Guid(b0c9cd7027a8b884f93682ab5f83a139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc8799c4c538130387920f0a79617d0') in 0.019707 seconds
+  Import took 0.024884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_BaseMap.png
+  artifactKey: Guid(231d6807f03c915489f528fa85b58d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_BaseMap.png using Guid(231d6807f03c915489f528fa85b58d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ba0d7dd8052f488665f5d0e436bfa5') in 0.009246 seconds
+  Import took 0.012920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_MetallicSmoothness.png
+  artifactKey: Guid(ffada8f930ff9394c8e945a9a1bc51c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_MetallicSmoothness.png using Guid(ffada8f930ff9394c8e945a9a1bc51c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe58f29c960539ba32a65b1c1d073870') in 0.019022 seconds
+  Import took 0.023318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_MaskMap.png
+  artifactKey: Guid(6ec1a2b398d999a49bdcc35068f67260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_MaskMap.png using Guid(6ec1a2b398d999a49bdcc35068f67260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2daa8ff65ed7779195ca94e3a71788') in 0.008819 seconds
+  Import took 0.012308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Texture/Combine_osnova_Main_AlbedoTransparency.png
+  artifactKey: Guid(6973e0100d4b3b144a3b5e672481e4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_AlbedoTransparency.png using Guid(6973e0100d4b3b144a3b5e672481e4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbd35c7487bfff78d7d6ed877f891a4e') in 0.009352 seconds
+  Import took 0.023166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Texture/Combine_osnova_PC_MetallicSmoothness.png
+  artifactKey: Guid(835d4d01de71ec040bfe968abc5db3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_PC_MetallicSmoothness.png using Guid(835d4d01de71ec040bfe968abc5db3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7163afd356582c935c846f920069fed5') in 0.008160 seconds
+  Import took 0.011292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_BaseMap.png
+  artifactKey: Guid(0791fdebbf111d243b44e9244b3e22c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_BaseMap.png using Guid(0791fdebbf111d243b44e9244b3e22c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f041373be8e38336a39dba6a814a71') in 0.008915 seconds
+  Import took 0.016655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Texture/Combine_osnova_Main_MetallicSmoothness.png
+  artifactKey: Guid(233bec59fce7edd43ba0190f963a53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_MetallicSmoothness.png using Guid(233bec59fce7edd43ba0190f963a53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25251f9067627b7fcc0aa1f3f906d07') in 0.012212 seconds
+  Import took 0.015321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Normal.png
+  artifactKey: Guid(64ddcae659a93db4f8fb0dbb9b31376b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Normal.png using Guid(64ddcae659a93db4f8fb0dbb9b31376b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f0ed5267989ad135ab049b419ad8e9') in 0.009116 seconds
+  Import took 0.012861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_MaskMap.png
+  artifactKey: Guid(73e1397e097522b44a4eb2365018ab51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_MaskMap.png using Guid(73e1397e097522b44a4eb2365018ab51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ca0aa2a626f153e8e2f26fa467bc81') in 0.010664 seconds
+  Import took 0.013695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 379.777899 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_AlbedoTransparency.png
+  artifactKey: Guid(621df3448825b3f43903efc35b62c69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_AlbedoTransparency.png using Guid(621df3448825b3f43903efc35b62c69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e4d22fea3817fe0b268d9765bb0ff6') in 0.046801 seconds
+  Import took 0.050916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_Normal.png
+  artifactKey: Guid(9982d894c9432744eac8311922091177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_Normal.png using Guid(9982d894c9432744eac8311922091177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bb446b31ad9cafc840ef5c8a4a05fd') in 0.087384 seconds
+  Import took 0.090749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_MetallicSmoothness.png
+  artifactKey: Guid(2081015e53079fc4b9f8bb15aca12eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_MetallicSmoothness.png using Guid(2081015e53079fc4b9f8bb15aca12eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7796dfdf499bd4ee69a18a11375fa0') in 0.036202 seconds
+  Import took 0.040795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_AlbedoTransparency.png
+  artifactKey: Guid(5603af3f753bbe74a8a7823d08892d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_AlbedoTransparency.png using Guid(5603af3f753bbe74a8a7823d08892d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e9245cabaafce8ec29f5f44bd4a3b36') in 0.048460 seconds
+  Import took 0.063544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Texture/Combine_osnova_Bunker_MetallicSmoothness.png
+  artifactKey: Guid(9e5b7aab831c05d468d718ef1275bd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Bunker_MetallicSmoothness.png using Guid(9e5b7aab831c05d468d718ef1275bd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7a1881d40c3d9d53ef68218a723ec2') in 0.038875 seconds
+  Import took 0.042512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Normal.png
+  artifactKey: Guid(241b49c70c2b7af41a1a8a0dc6b0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Normal.png using Guid(241b49c70c2b7af41a1a8a0dc6b0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f9bb51ec8a50c6740e6b77e30f84b4') in 0.018101 seconds
+  Import took 0.021760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_AlbedoTransparency.png
+  artifactKey: Guid(c870d5a483c70d94985b32ea695d98a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_AlbedoTransparency.png using Guid(c870d5a483c70d94985b32ea695d98a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eaf5ec508b5d917716681a6fa207b8c') in 0.019891 seconds
+  Import took 0.023143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Emission.png
+  artifactKey: Guid(9a9d401cd8fafbb43afbc49a9e20d9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Emission.png using Guid(9a9d401cd8fafbb43afbc49a9e20d9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e929336e35402b710fbee36eefe0c4') in 0.030109 seconds
+  Import took 0.042839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_Normal.png
+  artifactKey: Guid(30f9d0df383bc824ea21ebab074c55ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_Normal.png using Guid(30f9d0df383bc824ea21ebab074c55ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91d04a5e2debd441da189cb73b0b49c') in 0.034268 seconds
+  Import took 0.037902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_Normal.png
+  artifactKey: Guid(44f3b07a161536a46ba4a322c963459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_Normal.png using Guid(44f3b07a161536a46ba4a322c963459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfe41ac75326848f9b7083f54fc2fc0') in 0.011184 seconds
+  Import took 0.014262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_MetallicSmoothness.png
+  artifactKey: Guid(ffc86b71d7582144da6ed9f0fb684db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_MetallicSmoothness.png using Guid(ffc86b71d7582144da6ed9f0fb684db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9d64609eb970906515a722e180e55e') in 0.022385 seconds
+  Import took 0.027222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Normal.png
+  artifactKey: Guid(64ddcae659a93db4f8fb0dbb9b31376b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Normal.png using Guid(64ddcae659a93db4f8fb0dbb9b31376b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428fbc2dfe67d62ad2c47b5cea63bf96') in 0.012443 seconds
+  Import took 0.016105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_AlbedoTransparency.png
+  artifactKey: Guid(be04ea957b897264b9b1db8493b60689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_AlbedoTransparency.png using Guid(be04ea957b897264b9b1db8493b60689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5f5cf5d4df1f991d7f7cf22c13cbdb') in 0.016490 seconds
+  Import took 0.019561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_MetallicSmoothness.png
+  artifactKey: Guid(7dea8e09ef63d6342be6e4b423fc2720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_MetallicSmoothness.png using Guid(7dea8e09ef63d6342be6e4b423fc2720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d05acce034f06cd0838d380513db3d') in 0.019905 seconds
+  Import took 0.024580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Emission.png
+  artifactKey: Guid(7962ca9bff2b1cb468b86d88e2de12ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Emission.png using Guid(7962ca9bff2b1cb468b86d88e2de12ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5d6dfbfdab3be67f8ff08135fb05ba') in 0.018820 seconds
+  Import took 0.022699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Texture/Combine_osnova_Main_AlbedoTransparency.png
+  artifactKey: Guid(6973e0100d4b3b144a3b5e672481e4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_AlbedoTransparency.png using Guid(6973e0100d4b3b144a3b5e672481e4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44b7fda3a760abeaee4da01133ab6fd') in 0.011555 seconds
+  Import took 0.014937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Texture/Combine_osnova_Main_MetallicSmoothness.png
+  artifactKey: Guid(233bec59fce7edd43ba0190f963a53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_MetallicSmoothness.png using Guid(233bec59fce7edd43ba0190f963a53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac04672875eb23ab02a58036be5cfe00') in 0.030600 seconds
+  Import took 0.035316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.027970 seconds.
+  path: Assets/Settings/ForwardRenderer.asset
+  artifactKey: Guid(4a8e21d5c33334b11b34a596161b9360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/ForwardRenderer.asset using Guid(4a8e21d5c33334b11b34a596161b9360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63cf95242464b0f1307a08bc2392aaaa') in 0.010196 seconds
+  Import took 0.031023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b3f476ab718b1cf20d183dd9addfe7') in 0.008577 seconds
+  Import took 0.012367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Settings/UniversalRP-LowQuality.asset
+  artifactKey: Guid(a31e9f9f9c9d4b9429ed0d1234e22103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-LowQuality.asset using Guid(a31e9f9f9c9d4b9429ed0d1234e22103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b226a0bb157262eadf686f6bb5b5f1f8') in 0.020305 seconds
+  Import took 0.036544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Settings/UniversalRP-MediumQuality.asset
+  artifactKey: Guid(d847b876476d3d6468f5dfcd34266f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-MediumQuality.asset using Guid(d847b876476d3d6468f5dfcd34266f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd421f548a6507a11f25ec3578746e9c1') in 0.011975 seconds
+  Import took 0.020578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e18c1f933b70f494440bf5e7626866') in 0.015421 seconds
+  Import took 0.019315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.037268 seconds.
+  path: Assets/Texture/Combine_osnova_Main_Normal.png
+  artifactKey: Guid(64ddcae659a93db4f8fb0dbb9b31376b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Main_Normal.png using Guid(64ddcae659a93db4f8fb0dbb9b31376b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff4eb517bb0d056f663826e7c639813') in 0.052728 seconds
+  Import took 0.058441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.669136 seconds.
+  path: Assets/Texture/Combine_osnova_Motovila_Normal.png
+  artifactKey: Guid(b1bbad258bde6a14b9ea0c63e5fa8e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Motovila_Normal.png using Guid(b1bbad258bde6a14b9ea0c63e5fa8e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5cdc42cd4eb0d3157feb066a05fa7e') in 0.037834 seconds
+  Import took 0.042775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.760698 seconds.
+  path: Assets/Texture/Combine_osnova_Base_2_Normal.png
+  artifactKey: Guid(0d9a8770fc9ad7a45be8c072fbf7a33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_2_Normal.png using Guid(0d9a8770fc9ad7a45be8c072fbf7a33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de7a9d8570c59cfb4ef6d7c78868e2b') in 0.062157 seconds
+  Import took 0.067314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.247296 seconds.
+  path: Assets/Texture/Combine_osnova_Base_3_Normal.png
+  artifactKey: Guid(27d9a47d8cf09774c82a56a21dd6df2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Base_3_Normal.png using Guid(27d9a47d8cf09774c82a56a21dd6df2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6c636d75fda52d0e7c864aea3a3c79') in 0.039902 seconds
+  Import took 0.045164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.646172 seconds.
+  path: Assets/Texture/Combine_osnova_cabine.001_Normal.png
+  artifactKey: Guid(20057566c23afe448b4a6df52b820afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_cabine.001_Normal.png using Guid(20057566c23afe448b4a6df52b820afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d92ac3987772c1d5770e1c8c61de867') in 0.054754 seconds
+  Import took 0.060140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.897364 seconds.
+  path: Assets/Texture/Combine_osnova_Cabine_insidea_Normal.png
+  artifactKey: Guid(30f9d0df383bc824ea21ebab074c55ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Cabine_insidea_Normal.png using Guid(30f9d0df383bc824ea21ebab074c55ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995d0338e678df603105b3fc7f1455d6') in 0.049025 seconds
+  Import took 0.054157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.038735 seconds.
+  path: Assets/Texture/Combine_osnova_Glass_Normal.png
+  artifactKey: Guid(a061dd1926673d840b06962a1abb51ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Glass_Normal.png using Guid(a061dd1926673d840b06962a1abb51ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ed2e70cb495bba0dc1ac8861c69355') in 0.009055 seconds
+  Import took 0.012845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.471550 seconds.
+  path: Assets/Presets/AudioCompressedInMemory.preset
+  artifactKey: Guid(2dd802e4d37c65149922028d3e973832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/AudioCompressedInMemory.preset using Guid(2dd802e4d37c65149922028d3e973832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4de02398cfe62c06251b0f50233ebf') in 0.019209 seconds
+  Import took 0.022932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Presets/AudioStreaming.preset
+  artifactKey: Guid(86bcce7f5575b54408aa0f3a7d321039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/AudioStreaming.preset using Guid(86bcce7f5575b54408aa0f3a7d321039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9982fbd60bc57b892b2c54d34a0163c0') in 0.021990 seconds
+  Import took 0.025538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Presets/NormalTexture.preset
+  artifactKey: Guid(14a57cf3b9fa1c74b884aa7e0dcf1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/NormalTexture.preset using Guid(14a57cf3b9fa1c74b884aa7e0dcf1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c195482fc53bc4f53f643643f636469') in 0.021492 seconds
+  Import took 0.024485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Presets/UtilityTexture.preset
+  artifactKey: Guid(45f7b2e3c78185248b3adbb14429c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/UtilityTexture.preset using Guid(45f7b2e3c78185248b3adbb14429c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9c1faeeb59b745cafa0ae79c874a42') in 0.017689 seconds
+  Import took 0.020743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.871673 seconds.
+  path: Assets/Texture/Combine_osnova_other_matal.001_Normal.png
+  artifactKey: Guid(241b49c70c2b7af41a1a8a0dc6b0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_other_matal.001_Normal.png using Guid(241b49c70c2b7af41a1a8a0dc6b0d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66baded8ce1f9e15c9da88fd90e0a096') in 0.138756 seconds
+  Import took 0.156839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.906345 seconds.
+  path: Assets/Texture/Combine_osnova_Whall_Normal.png
+  artifactKey: Guid(44f3b07a161536a46ba4a322c963459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Combine_osnova_Whall_Normal.png using Guid(44f3b07a161536a46ba4a322c963459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75922406869946272ca4f1ce8d1ab368') in 0.032357 seconds
+  Import took 0.037985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.749536 seconds.
+  path: Assets/ExampleAssets
+  artifactKey: Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets using Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ac45704b3e904ca5b19a6457cc79ac') in 0.006077 seconds
+  Import took 0.009747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1322.832448 seconds.
+  path: Assets/Model/Combine_osnova.fbx
+  artifactKey: Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova.fbx using Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb0869c58b6fbf07101f43e1dc44bc3') in 0.593097 seconds
+  Import took 0.599334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1174.729908 seconds.
+  path: Assets/Model/Combine_osnova 1.fbx
+  artifactKey: Guid(08fc46f8b523f804fa92be4693387897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova 1.fbx using Guid(08fc46f8b523f804fa92be4693387897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad18f547ae272ea2542db2ace1fea0b5') in 0.840885 seconds
+  Import took 0.846768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.385077 seconds.
+  path: Assets/Model/Combine_osnova 1.fbx
+  artifactKey: Guid(08fc46f8b523f804fa92be4693387897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova 1.fbx using Guid(08fc46f8b523f804fa92be4693387897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ddf23626d63ed8499cb748d78333d73') in 0.592379 seconds
+  Import took 0.598628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.298108 seconds.
+  path: Assets/Materials/Base_2.mat
+  artifactKey: Guid(2fc2f96d56e8bf443b2ba9c8e96159c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Base_2.mat using Guid(2fc2f96d56e8bf443b2ba9c8e96159c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be29aea1be0780b838a26b0166daea5c') in 0.071672 seconds
+  Import took 0.078701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Materials/Base_3.mat
+  artifactKey: Guid(22b129448309e694b8e61d643eb76803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Base_3.mat using Guid(22b129448309e694b8e61d643eb76803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fddcf3ea11274dee00e839ed6c228ec') in 0.054815 seconds
+  Import took 0.061323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Materials/Main.mat
+  artifactKey: Guid(43f3276b71f275645b475c0c83635595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Main.mat using Guid(43f3276b71f275645b475c0c83635595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '798d29ff86378a85df474e9e57499e1d') in 0.044106 seconds
+  Import took 0.050900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Materials/other_matal.001.mat
+  artifactKey: Guid(eda880cc0bed93e44815147e5a2c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/other_matal.001.mat using Guid(eda880cc0bed93e44815147e5a2c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d41b14259c04b2f15d018236f77e24') in 0.064865 seconds
+  Import took 0.072173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Materials/cabine.001.mat
+  artifactKey: Guid(d94234edb49949c4c8b95d8003cdfeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cabine.001.mat using Guid(d94234edb49949c4c8b95d8003cdfeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8781e745a6831aa0149b5d362e89676c') in 0.044368 seconds
+  Import took 0.059831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Materials/Cabine_insidea.mat
+  artifactKey: Guid(1509d3c3ba168924a8784164462bd9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cabine_insidea.mat using Guid(1509d3c3ba168924a8784164462bd9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2558ada44eb5bf18f4ecb049b6f27c') in 0.037008 seconds
+  Import took 0.043707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Materials/Whall.mat
+  artifactKey: Guid(c30b3f347b161c143ba1318fba479e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Whall.mat using Guid(c30b3f347b161c143ba1318fba479e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf491626d600f993688212ad504c2f2') in 0.049717 seconds
+  Import took 0.055936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2387a3a06dd0dd19ec58b4f15ebbcf') in 0.009708 seconds
+  Import took 0.013175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Materials/Glass.mat
+  artifactKey: Guid(2cdf937380d1ab840856b417a8441c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Glass.mat using Guid(2cdf937380d1ab840856b417a8441c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d4802e96c0b9315b82dc340e3911d0') in 0.016830 seconds
+  Import took 0.020567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Materials/Motovila.mat
+  artifactKey: Guid(1bac971d5a6bc5e41970bec5e7d80709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Motovila.mat using Guid(1bac971d5a6bc5e41970bec5e7d80709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68231c993d93d88dfe69b305b310afd1') in 0.060922 seconds
+  Import took 0.066748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Materials/Bunker.mat
+  artifactKey: Guid(999ae616739019f47ab8f7b069813938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bunker.mat using Guid(999ae616739019f47ab8f7b069813938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10528b62e75921f42b22cd2961e4d759') in 0.042163 seconds
+  Import took 0.057869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Materials/PC.mat
+  artifactKey: Guid(523b5bed7b0f7a34090366dfcf2e28c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PC.mat using Guid(523b5bed7b0f7a34090366dfcf2e28c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386c5fd6ef79de066e74d9731bd6049d') in 0.009357 seconds
+  Import took 0.013487 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2561 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.6 MB.
+System memory in use after: 121.8 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 3131.
+Total: 3.627500 ms (FindLiveObjects: 0.256000 ms CreateObjectMapping: 0.064700 ms MarkObjects: 2.087100 ms  DeleteObjects: 1.218500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.1 MB.
+System memory in use after: 126.6 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 3228.
+Total: 3.659700 ms (FindLiveObjects: 0.331000 ms CreateObjectMapping: 0.067600 ms MarkObjects: 1.669600 ms  DeleteObjects: 1.590500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001735 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2654 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 126.3 MB.
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 3230.
+Total: 3.651700 ms (FindLiveObjects: 0.273800 ms CreateObjectMapping: 0.066900 ms MarkObjects: 1.630000 ms  DeleteObjects: 1.680000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13705.762125 seconds.
+  path: Assets/Model/Combine_osnova.fbx
+  artifactKey: Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova.fbx using Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2a44364242ee843d2eaed426f5b4af') in 0.949763 seconds
+  Import took 0.956243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.064963 seconds.
+  path: Assets/Model/Combine_osnova.fbx
+  artifactKey: Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Combine_osnova.fbx using Guid(036afe18bb05bd34384ecd2c16b8eaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9262467576870cf07763831262f38e') in 1.095343 seconds
+  Import took 1.133248 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
